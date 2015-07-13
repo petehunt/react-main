@@ -1,6 +1,6 @@
 {
   "name": "react-main",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
     "react": "^0.13.3"
   },
   "devDependencies": {
-    "jasmine-node": "git://github.com/authbox-lib/jasmine-node.git#510346f8235bf1f25021087e5094cfaa8a2ce473"
+    "jasmine-node": "*"
   }
 }
