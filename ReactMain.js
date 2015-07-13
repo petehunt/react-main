@@ -46,4 +46,6 @@ var ReactMain = {
   },
 };
 
-module.exports = global.ReactMain || ReactMain;
+global.ReactMain = global.ReactMain || ReactMain;
+
+module.exports = global.ReactMain;
